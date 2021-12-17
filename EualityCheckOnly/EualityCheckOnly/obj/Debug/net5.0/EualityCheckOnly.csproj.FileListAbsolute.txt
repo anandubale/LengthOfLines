@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\bin\Debug\net5.0\EualityCheckOnly.exe
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\bin\Debug\net5.0\EualityCheckOnly.deps.json
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\bin\Debug\net5.0\EualityCheckOnly.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\bin\Debug\net5.0\EualityCheckOnly.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\bin\Debug\net5.0\EualityCheckOnly.dll
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\bin\Debug\net5.0\ref\EualityCheckOnly.dll
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\bin\Debug\net5.0\EualityCheckOnly.pdb
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\obj\Debug\net5.0\EualityCheckOnly.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\obj\Debug\net5.0\EualityCheckOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\obj\Debug\net5.0\EualityCheckOnly.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\obj\Debug\net5.0\EualityCheckOnly.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\obj\Debug\net5.0\EualityCheckOnly.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\obj\Debug\net5.0\EualityCheckOnly.dll
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\obj\Debug\net5.0\ref\EualityCheckOnly.dll
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\obj\Debug\net5.0\EualityCheckOnly.pdb
+C:\Users\anand\Desktop\Bridgelabz\testBranch\EualityCheckOnly\EualityCheckOnly\obj\Debug\net5.0\EualityCheckOnly.genruntimeconfig.cache
